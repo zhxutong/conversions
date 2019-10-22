@@ -1,4 +1,5 @@
 %TEMPERATURE_CONVERSIONS
+% Convert key temperature values between Fahrenheit, Kelvin, and Celsius
 
 % Save degree symbol as a variable
 deg = char(176);
