@@ -1,5 +1,8 @@
 %TEMPERATURE_CONVERSIONS
 % Convert key temperature values between Fahrenheit, Kelvin, and Celsius
+% Display graph of temperature conversions between C, F, K, and N.
+% Check temperature conversions between Kelvin, Fahrenheit, Celsius and
+% Newton
 
 % Save degree symbol as a variable
 deg = char(176);
